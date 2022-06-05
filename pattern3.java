@@ -5,7 +5,7 @@ public class pattern3 {
 
         Scanner sc = new Scanner(System.in);
 
-        int c = 69;
+        int c = 68;
         int count = 1;
 
         System.out.print("Enter height of pyramid: ");
